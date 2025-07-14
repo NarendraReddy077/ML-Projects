@@ -4,7 +4,6 @@
 # debugging or understanding the flow of a program.
 
 import logging
-import logging
 import os
 from datetime import datetime
 
