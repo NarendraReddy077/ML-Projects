@@ -1,0 +1,4 @@
+[ 2025-07-14 23:02:52,596 ] - 21 - root - Data Ingestion started
+[ 2025-07-14 23:02:52,609 ] - 24 - root - Dataset read as pandas dataframe
+[ 2025-07-14 23:02:52,648 ] - 29 - root - Train test split initiated
+[ 2025-07-14 23:02:52,672 ] - 35 - root - Data Ingestion completed successfully
