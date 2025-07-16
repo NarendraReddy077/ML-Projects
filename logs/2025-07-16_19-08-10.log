@@ -1,0 +1,12 @@
+[ 2025-07-16 19:08:14,960 ] - 25 - root - Data Ingestion started
+[ 2025-07-16 19:08:14,973 ] - 28 - root - Dataset read as pandas dataframe
+[ 2025-07-16 19:08:14,983 ] - 33 - root - Train test split initiated
+[ 2025-07-16 19:08:14,999 ] - 39 - root - Data Ingestion completed successfully
+[ 2025-07-16 19:08:15,075 ] - 61 - root - Data loaded successfully for transformation
+[ 2025-07-16 19:08:15,075 ] - 62 - root - Obtaining preprocessing object
+[ 2025-07-16 19:08:15,076 ] - 44 - root - Numerical features: ['writing_score', 'reading_score']
+[ 2025-07-16 19:08:15,076 ] - 45 - root - Categorical features: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
+[ 2025-07-16 19:08:15,080 ] - 74 - root - Applying preprocessing object on training and testing dataframes
+[ 2025-07-16 19:08:15,115 ] - 82 - root - Saved Preprocessing Object
+[ 2025-07-16 19:08:15,123 ] - 29 - root - Splitting training and testing arrays into features and target
+[ 2025-07-16 19:08:16,558 ] - 51 - root - Best Model: LinearRegression with R2 Score: 0.8604348832034759
