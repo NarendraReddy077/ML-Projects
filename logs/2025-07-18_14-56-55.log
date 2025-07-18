@@ -1,0 +1,5 @@
+[ 2025-07-18 14:56:58,587 ] - 97 - werkzeug -  * Debugger is active!
+[ 2025-07-18 14:56:58,598 ] - 97 - werkzeug -  * Debugger PIN: 875-101-774
+[ 2025-07-18 14:57:18,827 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\sklearn\\utils\\_set_output.py', reloading
+[ 2025-07-18 14:57:18,833 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\sklearn\\compose\\_column_transformer.py', reloading
+[ 2025-07-18 14:57:18,890 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 14:57:18] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -

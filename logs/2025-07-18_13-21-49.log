@@ -1,0 +1,12 @@
+[ 2025-07-18 13:21:53,298 ] - 97 - werkzeug -  * Debugger is active!
+[ 2025-07-18 13:21:53,344 ] - 97 - werkzeug -  * Debugger PIN: 875-101-774
+[ 2025-07-18 13:24:47,400 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:24:47] "GET / HTTP/1.1" 200 -
+[ 2025-07-18 13:24:47,563 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:24:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-07-18 13:24:54,328 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:24:54] "GET / HTTP/1.1" 200 -
+[ 2025-07-18 13:25:33,570 ] - 97 - werkzeug -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.13_3.13.1520.0_x64__qbz5n2kfra8p0\\Lib\\encodings\\unicode_escape.py', reloading
+[ 2025-07-18 13:25:33,658 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\app.py', reloading
+[ 2025-07-18 13:25:33,702 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\flask\\templating.py', reloading
+[ 2025-07-18 13:25:33,758 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\jinja2\\environment.py', reloading
+[ 2025-07-18 13:25:33,834 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\site-packages\\werkzeug\\routing\\map.py', reloading
+[ 2025-07-18 13:25:33,947 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:25:33] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+[ 2025-07-18 13:25:34,663 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:25:34] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -

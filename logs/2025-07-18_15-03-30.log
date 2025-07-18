@@ -1,0 +1,3 @@
+[ 2025-07-18 15:03:33,438 ] - 97 - werkzeug -  * Debugger is active!
+[ 2025-07-18 15:03:33,452 ] - 97 - werkzeug -  * Debugger PIN: 875-101-774
+[ 2025-07-18 15:04:11,116 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 15:04:11] "POST /predictdata HTTP/1.1" 200 -

@@ -1,0 +1,10 @@
+[ 2025-07-18 13:36:30,936 ] - 97 - werkzeug -  * Debugger is active!
+[ 2025-07-18 13:36:30,949 ] - 97 - werkzeug -  * Debugger PIN: 875-101-774
+[ 2025-07-18 13:36:31,192 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:36:31] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-07-18 13:38:12,478 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:38:12] "[35m[1mPOST /predictdata HTTP/1.1[0m" 500 -
+[ 2025-07-18 13:38:13,406 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:38:13] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2025-07-18 13:38:13,448 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:38:13] "[36mGET /predictdata?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2025-07-18 13:38:13,525 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 13:38:13] "GET /predictdata?__debugger__=yes&cmd=resource&f=console.png&s=kmTTsYQlMJfBluvNQ0Ac HTTP/1.1" 200 -
+[ 2025-07-18 13:39:50,567 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\Documents\\Jupyter Notebooks\\ML\\KN\\ML_Project\\app.py', reloading
+[ 2025-07-18 13:39:50,583 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\Documents\\Jupyter Notebooks\\ML\\KN\\ML_Project\\app.py', reloading
+[ 2025-07-18 13:39:50,584 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\Documents\\Jupyter Notebooks\\ML\\KN\\ML_Project\\app.py', reloading

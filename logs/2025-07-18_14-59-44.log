@@ -1,0 +1,6 @@
+[ 2025-07-18 14:59:47,964 ] - 97 - werkzeug -  * Debugger is active!
+[ 2025-07-18 14:59:47,981 ] - 97 - werkzeug -  * Debugger PIN: 875-101-774
+[ 2025-07-18 14:59:48,641 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 14:59:48] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-07-18 15:00:14,626 ] - 97 - werkzeug - 127.0.0.1 - - [18/Jul/2025 15:00:14] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-07-18 15:03:09,941 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\Documents\\Jupyter Notebooks\\ML\\KN\\ML_Project\\app.py', reloading
+[ 2025-07-18 15:03:09,944 ] - 97 - werkzeug -  * Detected change in 'C:\\Users\\mnrth\\Documents\\Jupyter Notebooks\\ML\\KN\\ML_Project\\app.py', reloading
